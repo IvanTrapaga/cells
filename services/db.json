@@ -1,0 +1,98 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "Pelicula 1",
+      "description": "",
+      "language_is": 0,
+      "rating": 0
+    },
+    {
+      "title": "Peliculas 3",
+      "description": "pelicula3",
+      "languaje_is": 0,
+      "rating": 0,
+      "id": 3
+    },
+    {
+      "title": "Peliculas 4",
+      "description": "pelicula4",
+      "languaje_is": 0,
+      "rating": 0,
+      "id": 4
+    },
+    {
+      "title": "Peliculas 5",
+      "description": "pelicula5",
+      "languaje_is": 0,
+      "rating": 0,
+      "id": 5
+    },
+    {
+      "title": "Peliculas 6",
+      "description": "pelicula6",
+      "languaje_is": 0,
+      "rating": 0,
+      "id": 6
+    },
+    {
+      "title": "Peliculas 7",
+      "description": "pelicula7",
+      "languaje_is": 0,
+      "rating": 0,
+      "id": 7
+    }
+  ],
+  "languaje": [
+    {
+      "id": 1,
+      "name": ""
+    },
+    {
+      "name": "Espa�ol",
+      "id": 2
+    },
+    {
+      "name": "Ingles",
+      "id": 3
+    },
+    {
+      "name": "Frances",
+      "id": 4
+    }
+  ],
+  "actor": [
+    {
+      "id": 1,
+      "fist_name": "",
+      "last_name": ""
+    },
+    {
+      "fist_name": "Ivan",
+      "last_name": "Trapaga",
+      "id": 2
+    },
+    {
+      "fist_name": "Eduardo",
+      "last_name": "Osorno",
+      "id": 3
+    }
+  ],
+  "film_actor": [
+    {
+      "id": 1,
+      "actor_id": 1,
+      "film_id": 1
+    },
+    {
+      "actor_id": 1,
+      "film_id": 1,
+      "id": 2
+    },
+    {
+      "actor_id": 1,
+      "film_id": 2,
+      "id": 3
+    }
+  ]
+}
